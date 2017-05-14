@@ -1,0 +1,9 @@
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ConsoleApp2.deps.json
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ConsoleApp2.runtimeconfig.json
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ConsoleApp2.runtimeconfig.dev.json
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ConsoleApp2.dll
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ConsoleApp2.pdb
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp1.1\ConsoleApp2.AssemblyInfo.cs
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp1.1\ConsoleApp2.dll
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp1.1\ConsoleApp2.pdb
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp1.1\ConsoleApp2.csprojResolveAssemblyReference.cache

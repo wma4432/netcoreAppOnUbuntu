@@ -1,0 +1,11 @@
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ubuntu.16.04-x64\libhostpolicy.so
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ubuntu.16.04-x64\libhostfxr.so
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2.deps.json
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2.runtimeconfig.json
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2.runtimeconfig.dev.json
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2.dll
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2.pdb
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2.AssemblyInfo.cs
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2.dll
+D:\testJunkFolder\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp1.1\ubuntu.16.04-x64\ConsoleApp2.pdb
